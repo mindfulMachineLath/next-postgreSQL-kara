@@ -49,13 +49,13 @@ TWITTER_CLIENT_SECRET=YOUR_TWITTER_CLIENT_SECRET
 Clone the project
 
 ```bash
-  git clone https://github.com/mehrabmp/kara-shop.git
+  git clone https://github.com/undersky0827/next-postgreSQL-kara
 ```
 
 Go to the project directory
 
 ```bash
-  cd kara-shop
+  cd next-postgreSQL-kara
 ```
 
 Install dependencies
