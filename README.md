@@ -52,7 +52,6 @@ Clone the project
   git clone https://github.com/undersky0827/next-postgreSQL-kara.git
 ```
 
-Go to the project directory
 
 ```bash
   cd next-postgreSQL-kara
