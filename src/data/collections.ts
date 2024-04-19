@@ -128,7 +128,7 @@ export const collections: Prisma.CollectionCreateManyInput[] = [
     name: 'T-Shirts & Tops',
     slug: 'tshirts-tops',
     types: ['MEN', 'WOMEN'],
-    parentId: 2,
+    parentId: 4,
   },
   {
     id: 23,
