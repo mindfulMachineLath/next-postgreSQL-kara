@@ -49,7 +49,7 @@ TWITTER_CLIENT_SECRET=YOUR_TWITTER_CLIENT_SECRET
 Clone the project
 
 ```bash
-  git clone https://github.com/undersky0827/next-postgreSQL-kara
+  git clone https://github.com/undersky0827/next-postgreSQL-kara.git
 ```
 
 Go to the project directory
